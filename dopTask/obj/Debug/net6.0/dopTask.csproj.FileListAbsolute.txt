@@ -1,0 +1,15 @@
+C:\Users\semio\Desktop\HW3Sem\dopTask\obj\Debug\net6.0\dopTask.csproj.AssemblyReference.cache
+C:\Users\semio\Desktop\HW3Sem\dopTask\obj\Debug\net6.0\dopTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semio\Desktop\HW3Sem\dopTask\obj\Debug\net6.0\dopTask.AssemblyInfoInputs.cache
+C:\Users\semio\Desktop\HW3Sem\dopTask\obj\Debug\net6.0\dopTask.AssemblyInfo.cs
+C:\Users\semio\Desktop\HW3Sem\dopTask\obj\Debug\net6.0\dopTask.csproj.CoreCompileInputs.cache
+C:\Users\semio\Desktop\HW3Sem\dopTask\bin\Debug\net6.0\dopTask.exe
+C:\Users\semio\Desktop\HW3Sem\dopTask\bin\Debug\net6.0\dopTask.deps.json
+C:\Users\semio\Desktop\HW3Sem\dopTask\bin\Debug\net6.0\dopTask.runtimeconfig.json
+C:\Users\semio\Desktop\HW3Sem\dopTask\bin\Debug\net6.0\dopTask.dll
+C:\Users\semio\Desktop\HW3Sem\dopTask\bin\Debug\net6.0\dopTask.pdb
+C:\Users\semio\Desktop\HW3Sem\dopTask\obj\Debug\net6.0\dopTask.dll
+C:\Users\semio\Desktop\HW3Sem\dopTask\obj\Debug\net6.0\refint\dopTask.dll
+C:\Users\semio\Desktop\HW3Sem\dopTask\obj\Debug\net6.0\dopTask.pdb
+C:\Users\semio\Desktop\HW3Sem\dopTask\obj\Debug\net6.0\dopTask.genruntimeconfig.cache
+C:\Users\semio\Desktop\HW3Sem\dopTask\obj\Debug\net6.0\ref\dopTask.dll
